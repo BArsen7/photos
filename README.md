@@ -11,11 +11,15 @@ FontsHelper - расширение для пакета оффисных прил
 ### Вариант 2 
 Установите пакет libreoffice-pyuno  
 Откройте любое приложение LibreOffice. В верхней панели выберите Сервис => Расширения => Добавить и с помощью открывшегося окна найдите и откройте файл FontsHelper.oxt
-(добавить фотки)
+(добавить фотки)![Фото-0,1](https://github.com/user-attachments/assets/0fd6a4f4-d262-4d0a-acc2-f1dc5475d37f)
+![Фото- 0,2](https://github.com/user-attachments/assets/503281d1-05f1-4797-a3e4-132054489d62)
+![Фото-0,3](https://github.com/user-attachments/assets/3af959ee-9517-49f6-be79-5ad10169129c)
+![Фото-0,4](https://github.com/user-attachments/assets/c1b69b14-5277-43ff-8e46-b1077f39d870)
+
 ## Как использовать проект (текст + гифка)
 ### Включение расширения
 Перейдите в Сервис => Расширения, выберите FontsHelper.oxt и нажмите кнопку "Включить", далее нужно закрыть окно и перезапустить приложение, чтобы изменения вступили в силу.
-![фото-1](https://github.com/user-attachments/assets/334bd425-070d-4a4b-a552-d7c2d0bc99a6) фото-2
+![фото-1](https://github.com/user-attachments/assets/334bd425-070d-4a4b-a552-d7c2d0bc99a6) ![Фото-2](https://github.com/user-attachments/assets/b31a0a72-a104-4e14-b5a2-da4fc010e2b0)
 Если у вас появился раздел "Дополнения", то вы всё сделали верно
 ![фото-3](https://github.com/user-attachments/assets/8bf94026-ecca-4ef2-9c0c-678805d9a609)
 
@@ -30,5 +34,6 @@ FontsHelper - расширение для пакета оффисных прил
 Если вы увидели окно с другим содержанием, то рекомендую Вам найти и установить шрифты из списка, который вы видите во всплывающем окне
 
 ## Ссылки на документацию
-
+https://api.libreoffice.org/docs/idl/ref/index.html
 ## Лицензия
+
